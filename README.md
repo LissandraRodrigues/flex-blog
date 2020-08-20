@@ -33,8 +33,4 @@ $ cd flexblog
 # Click on index.html and the application will start in your browser.
 ```
 
-Made with :heart: &nbsp; by <a href = "https://github.com/LissandraRodrigues" target = "_parent"> Luiza Lissandra </a>
-
-&#xa0;
-
-<a href = "#top"> Back to top </a>
+Made with :heart: &nbsp; by <a href = "https://www.linkedin.com/in/luiza-lissandra" target = "_parent"> Luiza Lissandra. </a>

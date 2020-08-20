@@ -11,11 +11,8 @@
 <p align = "center">
 	
   <a href = "#dart-about">About</a> &#xa0; | &#xa0;
-    
   <a href= "#rocket-technologies">Technologies</a> &#xa0; | &#xa0;
-  
   <a href = "#checkered_flag-starting">Starting</a> &#xa0; | &#xa0;
-    
   <a href = "https://github.com/LissandraRodrigues" target = "_blank">Luiza Lissandra</a>
   
 </p>
@@ -45,7 +42,7 @@ $ cd flexblog
 # Click on index.html and the application will start in your browser.
 ```
 
-Made with :heart:  by <a href = "https://github.com/LissandraRodrigues" target = "_blank"> Luiza Lissandra </a>
+Made with :heart: &nbsp; by <a href = "https://github.com/LissandraRodrigues" target = "_blank"> Luiza Lissandra </a>
 
 &#xa0;
 

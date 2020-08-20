@@ -2,8 +2,6 @@
 	
   <img src = "https://github.com/LissandraRodrigues/flex-blog/blob/master/FlexBlog.png" alt = "FlexBlog" />
 
-  &#xa0;
-
 </div>
 
 <hr> 

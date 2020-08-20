@@ -21,6 +21,27 @@ The following tools were used in this project:
 - [HTML5](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)
 - [CSS3](https://devdocs.io/css/)
 
+## :pencil: What I learned ##
+
+- Flex container: 
+
+	- display
+	- flex-direction
+	- flex-wrap
+	- flex-flow
+	- justify-content
+	- align-items
+	- align-content
+	
+- Flex item:
+
+	- flex-grow
+	- flex-basis
+	- flex-shrink
+	- flex
+	- order
+	- align-self
+
 ## :checkered_flag: Starting ##
 
 ```bash
@@ -30,7 +51,7 @@ $ git clone https://github.com/LissandraRodrigues/flex-blog
 # Access
 $ cd flexblog
 
-# Click on index.html and the application will start in your browser.
+# Click on the index.html file and the application will start in your browser.
 ```
 
 Made with :heart: &nbsp; by <a href = "https://www.linkedin.com/in/luiza-lissandra" target = "_parent"> Luiza Lissandra. </a>

@@ -12,7 +12,7 @@
 
 This project was done through the CSS Flexbox course offered by <a href = "https://www.origamid.com/"> Origamid. </a>
 
-Watch the application demo video: <a href = "https://www.youtube.com/watch?v=BmiNXPZ2zgE&feature=youtu.be"> click here. </a>
+Watch the application demo video: <a href = "https://www.youtube.com/watch?v=BmiNXPZ2zgE&feature=youtu.be" target = "_blank"> click here. </a>
 
 ## :rocket: Technologies ##
 

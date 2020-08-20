@@ -12,6 +12,8 @@
 
 This project was done through the CSS Flexbox course offered by <a href = "https://www.origamid.com/"> Origamid. </a>
 
+Watch the application demo video: <a href = "https://www.youtube.com/watch?v=BmiNXPZ2zgE&feature=youtu.be"> click here. </a>
+
 ## :rocket: Technologies ##
 
 The following tools were used in this project:
@@ -20,6 +22,8 @@ The following tools were used in this project:
 - [CSS3](https://devdocs.io/css/)
 
 ## :pencil: What I learned ##
+
+- Responsiveness
 
 - Flex container: 
 
